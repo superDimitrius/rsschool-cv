@@ -1,1 +1,1 @@
- https://superdimitrius.github.io/rsschool-cv/
+ https://superdimitrius.github.io/rsschool-cv/cv.md
