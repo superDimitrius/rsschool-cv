@@ -1,2 +1,1 @@
-# rsschool-cv
-RSSCHOOL
+https://superDimitrius.github.io/rsschool-cv/
